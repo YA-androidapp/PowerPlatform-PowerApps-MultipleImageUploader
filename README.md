@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-MultipleImageUploader
+ Power Apps キャンバスアプリで実装した複数ファイル対応の画像アップローダー
